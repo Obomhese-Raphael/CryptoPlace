@@ -15,7 +15,7 @@ CryptoPlace is a web application that displays the top 10 biggest cryptocurrenci
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/crypto-dashboard.git
+    git clone https://github.com/Obomhese-Raphael/CryptoPlace.git
     ```
 2. Navigate to the project directory:
     ```sh
